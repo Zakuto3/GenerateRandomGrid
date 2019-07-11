@@ -1,0 +1,17 @@
+{
+  "name": "randomgengrid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mathjs": "^5.9.0",
+    "roguelike": "^0.5.0"
+  }
+}
